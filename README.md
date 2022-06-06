@@ -7,7 +7,10 @@
 Me estoy formando como técnico en desarrollo de aplicaciones web.
 
 Siempre he tenido una gran atracción por la tecnología informática y he sido un entusiasta de la evolución constante del software que nos rodea y moldea nuestro día a día. Ya en 2008, a una edad temprana le mostré esta pasión a mi padre y me ayudó a desarrollar mi primera pequeña página web, en forma de blog personal con [**Blogger**](https://www.blogger.com/).
-Años después, sin despegarme nunca de la informática (por ejemplo, aprendí a manejar HTML en 2011) y tras completar mi formación básica, comencé este apasionante viaje: el de convertirme en un desarrollador de aplicaciones. En 2018 comencé mi aprendizaje en programación con [**Java**](https://www.java.com/es/), siguiendo el paradigma de la POO. Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí CSS, Javascript y C#, y desde que inicié el ciclo formativo de DAW he adquirido un mejor dominio de HTML, CSS y JavaScript, he podido aprender y dominar XML y SQL, y he podido profundizar más en Java.
+
+Años después, sin despegarme nunca de la informática (por ejemplo, aprendí a manejar HTML en 2011) y tras completar mi formación básica, comencé este apasionante viaje: el de convertirme en un desarrollador de aplicaciones. En 2018 comencé mi aprendizaje en programación con [**Java**](https://www.java.com/es/), siguiendo el paradigma de la POO.
+
+Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí CSS, Javascript y C#, y desde que inicié el ciclo formativo de DAW he adquirido un mejor dominio de HTML, CSS y JavaScript, he podido aprender y dominar XML y SQL, y he podido profundizar más en Java.
 
 Actualmente estoy mejorando mis conocimientos en desarrollo web: por el lado de front-end estoy aprendiendo React y TypeScript, y en back-end estoy aprendiendo Spring Boot y Django.
 
