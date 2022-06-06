@@ -25,4 +25,4 @@ Próximamente más...
 
 ## Información de contacto
 
-[![Email](https://img.shields.io/badge/povarg.pablo@gmail.com-contacta_conmigo)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:povarg.pablo@gmail.com)
+[![Email](https://img.shields.io/badge/povarg.pablo@gmail.com-contacta_conmigo-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:povarg.pablo@gmail.com)
