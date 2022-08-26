@@ -12,7 +12,7 @@ Años después, sin despegarme nunca de la informática (por ejemplo, aprendí a
 
 Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí CSS, Javascript y C#, y desde que inicié el ciclo formativo de DAW he adquirido un mejor dominio de HTML, CSS y JavaScript, he podido aprender y dominar XML y SQL, y he podido profundizar más en Java.
 
-Actualmente estoy mejorando mis conocimientos en desarrollo web: por el lado de front-end estoy aprendiendo React y TypeScript, y en back-end estoy aprendiendo Spring Boot y Django.
+Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend, con la idea de ir introduciéndome en el desarrollo de algun proyecto MERN con React, [**Node.js**](https://nodejs.org) y [**Express**](http://expressjs.com).
 
 ## Habilidades:
 [![Java](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
