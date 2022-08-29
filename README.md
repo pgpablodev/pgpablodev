@@ -14,7 +14,7 @@ Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML 
 
 Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend, con la idea de ir introduciéndome en el desarrollo de algun proyecto MERN con React, [**Node.js**](https://nodejs.org) y [**Express**](http://expressjs.com).
 
-## Habilidades:
+## Habilidades
 [![Java](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-FECC00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-7ED321?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
