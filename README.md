@@ -24,8 +24,9 @@ Además del desarrollo web, existen muchas otras ramas de desarrollo y es intere
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+</br>
 [![C#](https://img.shields.io/badge/CSHARP-4479A1?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+[![React](https://img.shields.io/badge/REACT-5ED4F4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 Próximamente más...
 
