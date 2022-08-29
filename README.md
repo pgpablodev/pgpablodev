@@ -14,6 +14,8 @@ Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML 
 
 Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend, con la idea de ir introduciéndome en el desarrollo de algun proyecto MERN con React, [**Node.js**](https://nodejs.org) y [**Express**](http://expressjs.com).
 
+Además del desarrollo web, existen muchas otras ramas de desarrollo y es interesante aprender tecnologías diferentes. Por ello, pese a mantener el foco en lo anteriormente citado, estoy descubriendo [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java.
+
 ## Habilidades
 [![Java](https://img.shields.io/badge/JAVA-3776AB?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-FECC00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
