@@ -16,7 +16,7 @@ Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendien
 Además del desarrollo web, existen muchas otras ramas de desarrollo y es interesante aprender tecnologías diferentes. Por ello, pese a mantener el foco en lo anteriormente citado, estoy descubriendo [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java.
 
 ## Habilidades
-[![Java](https://i.ibb.co/JFHnBnd/java.png)]()
+[![Java](https://i.ibb.co/VNW1v4D/java.png)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-FECC00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-7ED321?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
