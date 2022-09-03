@@ -11,7 +11,7 @@ Años después, sin despegarme nunca de la informática (por ejemplo, aprendí a
 
 Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí CSS, Javascript y C#, y desde que inicié el ciclo formativo de DAW he adquirido un mejor dominio de HTML, CSS y JavaScript, he podido aprender y dominar XML y SQL, y he podido profundizar más en Java.
 
-Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend, con la idea de ir introduciéndome en el desarrollo de algun proyecto MERN con React, [**Node.js**](https://nodejs.org) y [**Express**](http://expressjs.com).
+Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend.
 
 Además del desarrollo web, existen muchas otras ramas de desarrollo y es interesante aprender tecnologías diferentes. Por ello, pese a mantener el foco en lo anteriormente citado, estoy descubriendo [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java.
 
