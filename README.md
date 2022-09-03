@@ -1,6 +1,8 @@
 # ¡Bienvenido al GitHub de Pablo!
 ### Futuro desarrollador de aplicaciones web, en formación
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgpablodev&theme=tokyonight&layout=extend)](https://github.com/pgpablodev)
+
 Me estoy formando como técnico en desarrollo de aplicaciones web.
 
 Siempre he tenido una gran atracción por la tecnología informática y he sido un entusiasta de la evolución constante del software que nos rodea y moldea nuestro día a día. Ya en 2008, a una edad temprana le mostré esta pasión a mi padre y me ayudó a desarrollar mi primera pequeña página web, en forma de blog personal con [**Blogger**](https://www.blogger.com/).
