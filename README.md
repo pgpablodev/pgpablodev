@@ -11,9 +11,7 @@ Años después, sin despegarme nunca de la informática (por ejemplo, aprendí a
 
 Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí CSS, Javascript y C#, y desde que inicié el ciclo formativo de DAW he adquirido un mejor dominio de HTML, CSS y JavaScript, he podido aprender y dominar XML y SQL, y he podido profundizar más en Java.
 
-Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend.
-
-Además del desarrollo web, existen muchas otras ramas de desarrollo y es interesante aprender tecnologías diferentes. Por ello, pese a mantener el foco en lo anteriormente citado, estoy descubriendo [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java.
+Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java.
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
@@ -26,6 +24,7 @@ Además del desarrollo web, existen muchas otras ramas de desarrollo y es intere
 </br>
 [![C#](https://img.shields.io/badge/CSHARP-4479A1?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/REACT-5ED4F4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/KOTLIN-6942CB?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]
 </br>
 Próximamente más...
 
