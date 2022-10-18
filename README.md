@@ -25,6 +25,7 @@ Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendien
 [![C#](https://img.shields.io/badge/CSHARP-4479A1?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/REACT-5ED4F4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/KOTLIN-6942CB?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+</br>
 [![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 </br>
 Próximamente más...
