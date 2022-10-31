@@ -16,17 +16,18 @@ Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendien
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-FECC00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-7ED321?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/REACT-5ED4F4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-[![C#](https://img.shields.io/badge/CSHARP-67217A?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/REACT-5ED4F4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/KOTLIN-6942CB?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-</br>
 [![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-7ED321?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
+[![C#](https://img.shields.io/badge/CSHARP-67217A?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/KOTLIN-6942CB?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 </br>
 Próximamente más...
 
