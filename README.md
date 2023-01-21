@@ -13,7 +13,7 @@ Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML 
 
 A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java, pero profundizando algo menos que en las tecnologías web, mi foco principal hoy poy hoy.
 
-Actualmente he comenzado a manejar Laravel, framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D.
+Actualmente he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D.
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
