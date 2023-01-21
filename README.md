@@ -11,7 +11,9 @@ Años después, sin despegarme nunca de la informática (por ejemplo, aprendí a
 
 Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí CSS, Javascript y C#, y desde que inicié el ciclo formativo de DAW he adquirido un mejor dominio de HTML, CSS y JavaScript, he podido aprender y dominar XML y SQL, y he podido profundizar más en Java.
 
-Actualmente estoy mejorando mis conocimientos en desarrollo web: estoy aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java.
+A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java, pero profundizando algo menos que en las tecnologías web, mi foco principal hoy poy hoy.
+
+Actualmente he comenzado a manejar Laravel, framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D.
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
