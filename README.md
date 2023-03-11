@@ -31,7 +31,6 @@ Actualmente he comenzado a manejar [**Laravel**](https://laravel.com), framework
 [![C#](https://img.shields.io/badge/CSHARP-67217A?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
 </br>
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
-Próximamente más...
 
 ## Información de contacto
 
