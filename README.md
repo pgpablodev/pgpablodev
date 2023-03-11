@@ -3,17 +3,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgpablodev&theme=tokyonight&layout=extend)](https://github.com/pgpablodev)
 
-Me estoy formando como técnico en desarrollo de aplicaciones web.
+Soy técnico en desarrollo de aplicaciones web.
 
-Siempre he tenido una gran atracción por la tecnología informática y he sido un entusiasta de la evolución constante del software que nos rodea y moldea nuestro día a día. Ya en 2008, a una edad temprana le mostré esta pasión a mi padre y me ayudó a desarrollar mi primera pequeña página web, en forma de blog personal con [**Blogger**](https://www.blogger.com/).
+En 2018 comencé mi aprendizaje en programación con [**Java**](https://www.java.com/es/), siguiendo el paradigma de la POO.
 
-Años después, sin despegarme nunca de la informática (por ejemplo, aprendí a manejar HTML en 2011) y tras completar mi formación básica, comencé este apasionante viaje: el de convertirme en un desarrollador de aplicaciones. En 2018 comencé mi aprendizaje en programación con [**Java**](https://www.java.com/es/), siguiendo el paradigma de la POO.
+En 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí Javascript y C#, y en el primer curso del ciclo formativo empecé a agilizarme a la hora de desarrollar en JavaScript, apendí SQL, y profundizar en Java.
 
-Posteriormente, en 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí CSS, Javascript y C#, y desde que inicié el ciclo formativo de DAW he adquirido un mejor dominio de HTML, CSS y JavaScript, he podido aprender y dominar XML y SQL, y he podido profundizar más en Java.
+A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android.
 
-A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android, aprovechando mis conocimientos en Java, pero profundizando algo menos que en las tecnologías web, mi foco principal hoy poy hoy.
-
-Actualmente he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D.
+Actualmente he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D. También he estado aprendiendo [**Angular**](https://angular.io/)
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
@@ -32,6 +30,7 @@ Actualmente he comenzado a manejar [**Laravel**](https://laravel.com), framework
 [![Kotlin](https://img.shields.io/badge/KOTLIN-6942CB?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/CSHARP-67217A?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
 </br>
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
 Próximamente más...
 
 ## Información de contacto
