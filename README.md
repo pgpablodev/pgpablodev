@@ -7,11 +7,9 @@ Soy técnico en desarrollo de aplicaciones web.
 
 En 2018 comencé mi aprendizaje en programación con [**Java**](https://www.java.com/es/), siguiendo el paradigma de la POO.
 
-En 2021, tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí Javascript y C#, y en el primer curso del ciclo formativo empecé a agilizarme a la hora de desarrollar en JavaScript, apendí SQL, y profundizar en Java.
+En 2021 tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí Javascript y C#, y en el primer curso del ciclo formativo empecé a agilizarme a la hora de desarrollar en JavaScript, apendí SQL, y profundizar en Java. A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android.
 
-A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android.
-
-Actualmente he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D. También he estado aprendiendo [**Angular**](https://angular.io/)
+En 2023 he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D. En los últimos meses del ciclo, estuve aprendiendo [**Angular**](https://angular.io/), y actualmente estoy realizando mis prácticas en [**a2u**](https://www.advisor2you.com/), donde estoy consolidando mis conocimientos en Laravel gracias a sus proyectos de CRM, y estoy aprendiendo a desenvolverme con herramientas como Navicat como gestor de bases de datos, FileZilla para trabajar en equipo en proyectos Laravel por FTP, [**AWS**](https://aws.amazon.com/es/), entre muchas otras.
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
