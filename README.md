@@ -1,7 +1,7 @@
 # ¡Bienvenido al GitHub de Pablo!
 ### Desarrollador de aplicaciones web, en formación
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgpablodev&theme=tokyonight&layout=extend)](https://github.com/pgpablodev)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgpablodev&theme=tokyonight&layout=extend)](https://github.com/pgpablodev)--->
 
 Soy técnico en desarrollo de aplicaciones web.
 
