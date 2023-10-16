@@ -1,5 +1,5 @@
 # ¡Bienvenido al GitHub de Pablo!
-### Desarrollador de aplicaciones web, en formación
+### Desarrollador junior de aplicaciones web
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgpablodev&theme=tokyonight&layout=extend)](https://github.com/pgpablodev)--->
 
@@ -9,8 +9,8 @@ En 2018 comencé mi aprendizaje en programación con [**Java**](https://www.java
 
 En 2021 tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí Javascript y C#, y en el primer curso del ciclo formativo empecé a agilizarme a la hora de desarrollar en JavaScript, apendí SQL, y profundizar en Java. A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android.
 
-En 2023 he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D. En los últimos meses del ciclo, estuve aprendiendo [**Angular**](https://angular.io/), y realicé mis prácticas en [**a2u**](https://www.advisor2you.com/), donde he consolidando mis conocimientos en Laravel gracias a sus proyectos, y he aprendido a desenvolverme con herramientas como Navicat como gestor de bases de datos, FileZilla para trabajar en equipo en proyectos Laravel por FTP, [**AWS**](https://aws.amazon.com/es/), entre muchas otras.
-Actualmente trabajo como programador en esta misma empresa.
+En 2023 he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D. En los últimos meses del ciclo, estuve aprendiendo [**Angular**](https://angular.io/), y realicé mis prácticas en [**a2u**](https://www.advisor2you.com/), donde he consolidando mis conocimientos en Laravel gracias a sus proyectos, y he aprendido a desenvolverme con herramientas como Navicat como gestor de bases de datos, FileZilla para trabajar en equipo en proyectos Laravel por FTP, [**AWS**](https://aws.amazon.com/es/), [**Git**](https://git-scm.com/) para controlar las versiones que se suben a entornos de producción y preproducción, entre muchas otras.
+Actualmente trabajo como programador junior en esta misma empresa, utilizando fundamentalmente Laravel.
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
