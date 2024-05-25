@@ -1,5 +1,5 @@
 # ¡Bienvenido al GitHub de Pablo!
-### Desarrollador junior de aplicaciones web
+### Desarrollador de aplicaciones web
 
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgpablodev&theme=tokyonight&layout=extend)](https://github.com/pgpablodev)--->
 
@@ -11,7 +11,7 @@ En 2021 tuve la oportunidad de aprender Python y también HTML en mayor profundi
 
 En 2023 he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D. En los últimos meses del ciclo, estuve aprendiendo [**Angular**](https://angular.io/), y realicé mis prácticas en [**a2u**](https://www.advisor2you.com/), donde he consolidando mis conocimientos en Laravel gracias a sus proyectos, y he aprendido a desenvolverme con herramientas como Navicat como gestor de bases de datos, FileZilla para trabajar en equipo en proyectos Laravel por FTP, [**AWS**](https://aws.amazon.com/es/), [**Git**](https://git-scm.com/) para controlar las versiones que se suben a entornos de producción y preproducción, entre muchas otras.
 </br>
-Actualmente trabajo como programador junior en esta misma empresa, utilizando fundamentalmente Laravel. Cada día resuelvo más problemas de múltiples características, adaptándome a la situación y al entorno, y trabajando en equipo.
+Actualmente trabajo como desarrollador de software en esta misma empresa, utilizando fundamentalmente Laravel. Cada día resuelvo problemas de múltiples características, adaptándome a la situación y al entorno, y trabajando en equipo. Manejo Azure DevOps y Git para coordinar el despliegue del código de los diferentes proyectos.
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
