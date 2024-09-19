@@ -31,6 +31,7 @@ Además gestiono DevOps para diferentes proyectos con Microsoft Azure.
 [![Git](https://img.shields.io/badge/git-D64B21?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 </br>
 [![JQuery](https://img.shields.io/badge/jquery-FECC00?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/django-7ED321?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 
 
 ## Información de contacto
