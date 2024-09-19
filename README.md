@@ -5,13 +5,9 @@
 
 Soy técnico en desarrollo de aplicaciones web.
 
-En 2018 comencé mi aprendizaje en programación con [**Java**](https://www.java.com/es/), siguiendo el paradigma de la POO.
-
-En 2021 tuve la oportunidad de aprender Python y también HTML en mayor profundidad, descubrí Javascript y C#, y en el primer curso del ciclo formativo empecé a agilizarme a la hora de desarrollar en JavaScript, apendí SQL, y profundizar en Java. A lo largo de 2022 fui mejorando mis conocimientos en desarrollo web: aprendiendo [**React**](https://reactjs.org/), tecnología frontend para la web, [**PHP**](https://php.net) para backend y también [**Kotlin**](https://kotlinlang.org/) como lenguaje dirigido al desarrollo de aplicaciones en el sistema operativo Android.
-
-En 2023 he comenzado a manejar [**Laravel**](https://laravel.com), framework de PHP. Utilizando esta tecnología junto con React para front estoy trabajando en mi proyecto final del ciclo DAW, un e-commerce de impresión 3D. En los últimos meses del ciclo, estuve aprendiendo [**Angular**](https://angular.io/), y realicé mis prácticas en [**a2u**](https://www.advisor2you.com/), donde he consolidando mis conocimientos en Laravel gracias a sus proyectos, y he aprendido a desenvolverme con herramientas como Navicat como gestor de bases de datos, FileZilla para trabajar en equipo en proyectos Laravel por FTP, [**AWS**](https://aws.amazon.com/es/), [**Git**](https://git-scm.com/) para controlar las versiones que se suben a entornos de producción y preproducción, entre muchas otras.
-</br>
-Actualmente trabajo como desarrollador de software en esta misma empresa, utilizando fundamentalmente Laravel. Cada día resuelvo problemas de múltiples características, adaptándome a la situación y al entorno, y trabajando en equipo. Manejo Azure DevOps y Git para coordinar el despliegue del código de los diferentes proyectos.
+Estoy trabajando en [**a2u**](https://www.advisor2you.com/) como desarrollador de software (fundamentalmente web) desde 2023.
+El stack principal que manejo es Laravel/JQuery/PostgreSQL/MySQL, a parte de otras tecnologías como React, Python, Django, etc.
+Además gestiono DevOps para diferentes proyectos con Microsoft Azure.
 
 ## Habilidades
 [![Java](https://i.ibb.co/jZF81H5/java.png)]()
@@ -31,6 +27,11 @@ Actualmente trabajo como desarrollador de software en esta misma empresa, utiliz
 [![C#](https://img.shields.io/badge/CSHARP-67217A?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
 </br>
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316486?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/git-D64B21?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+</br>
+[![JQuery](https://img.shields.io/badge/jquery-FECC00?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+
 
 ## Información de contacto
 
