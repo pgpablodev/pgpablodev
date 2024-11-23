@@ -30,7 +30,7 @@ Además gestiono DevOps para diferentes proyectos con Microsoft Azure.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316486?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() 
 </br>
 </br>
-[![.NET](https://img.shields.io/badge/dotnet-592c8c?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010))]()
+[![.NET](https://img.shields.io/badge/dotnet-592c8c?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/CSHARP-67217A?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-D64B21?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
