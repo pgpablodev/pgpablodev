@@ -6,7 +6,7 @@
 Soy técnico en desarrollo de aplicaciones web.
 
 Estoy trabajando en [**a2u**](https://www.advisor2you.com/) como desarrollador de software (fundamentalmente web) desde 2023.
-El stack principal que manejo es Laravel/JQuery/PostgreSQL/MySQL, a parte de otras tecnologías como React, Python, Django, etc.
+El stack principal que manejo es Laravel/JQuery/PostgreSQL/MySQL, a parte de otras tecnologías como React, Python, Django, ASP.NET etc.
 Además gestiono DevOps para diferentes proyectos con Microsoft Azure.
 
 ## Habilidades
