@@ -15,7 +15,7 @@ Además gestiono DevOps para diferentes proyectos con Microsoft Azure.
 [![Django](https://img.shields.io/badge/Django-7ED321?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 </br>
 </br>
-[![SASS](https://img.shields.io/badge/SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)))]() 
+[![SASS](https://img.shields.io/badge/SASS-CD6799?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-FECC00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]() 
 [![React](https://img.shields.io/badge/REACT-5ED4F4?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 </br>
