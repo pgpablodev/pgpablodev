@@ -7,7 +7,7 @@ I worked as a full-stack web developer at [**a2u**](https://www.advisor2you.com/
 
 Currently, I am working on PoGiFit, my own application (Web and Mobile), while also taking on freelance projects — which is allowing me to work with new technologies such as Flutter.
 
-## Habilidades
+## Skills
 [![PHP](https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]() 
 [![Laravel](https://img.shields.io/badge/LARAVEL-f23a2f?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]() 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
@@ -29,6 +29,6 @@ Currently, I am working on PoGiFit, my own application (Web and Mobile), while a
 </br>
 
 
-## Información de contacto
+## Contact information
 
-[![Email](https://img.shields.io/badge/povarg.pablo@gmail.com-contacta_conmigo-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:povarg.pablo@gmail.com)
+[![Email](https://img.shields.io/badge/povarg.pablo@gmail.com-contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:povarg.pablo@gmail.com)
